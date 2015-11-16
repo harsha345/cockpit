@@ -1,4 +1,4 @@
-# Hacking on Cockpit
+ Hacking on Cockpit
 
 It is recommended that you create one or more dedicated virtual
 machines to try out and develop Cockpit.
@@ -196,7 +196,7 @@ only for the user which ran the above command.
 
 To revert the above change, run:
 
-    $ rm ~/.local/share/cockpit
+    $ rm ~/.local/share/cockpit/*
 
 ## Debug logging of Cockpit processes
 
