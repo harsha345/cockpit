@@ -1,4 +1,4 @@
- Hacking on Cockpit
+#Hacking on Cockpit
 
 It is recommended that you create one or more dedicated virtual
 machines to try out and develop Cockpit.
